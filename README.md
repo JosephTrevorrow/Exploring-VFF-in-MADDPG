@@ -6,4 +6,7 @@ To correctly use and run experiments on this code, it must be used with the ePyM
 
 The plotting tool "originalPlot.py" has been included. This is a minor modified file that uses matplotlib to create graphs from results, which are read in through JSON data created through the logging library Sacred (https://sacred.readthedocs.io/en/stable/index.html) and its simple file observer. Full sets of results will be incrementally added to this repo, expect to see 3 folders of results for each test (testing on 3 random seeds).
 
+This research has been self-evaluated on its ethical considerations, following the standards set by Data Hazards (https://datahazards.com/index.html). There is details of this in the project dissertation.
+
+
 Any questions about this library should be directed to Joseph (sgjtrevo@liverpool.ac.uk), we can only pray that TurnItIn isnt going to flag this as me plagerising myself! (Hence why this library is private)
