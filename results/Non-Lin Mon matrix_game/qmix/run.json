@@ -1,0 +1,91 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "/Users/josephtrevorrow/Library/Mobile Documents/com~apple~CloudDocs/dissertation/epymarl/src",
+    "dependencies": [
+      "munch==2.5.0",
+      "numpy==1.23.4",
+      "PyYAML==5.3.1",
+      "sacred==0.8.2",
+      "torch==1.13.0"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "d2550fd4bed646f04035eb3ba26b9244886dac01",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "d2550fd4bed646f04035eb3ba26b9244886dac01",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      },
+      {
+        "commit": "d2550fd4bed646f04035eb3ba26b9244886dac01",
+        "dirty": true,
+        "url": "https://github.com/uoe-agents/epymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources/main_b8672cae0d4561f155ccc43177000dad.py"
+      ],
+      [
+        "run.py",
+        "_sources/run_d16b0bb6df35345222c1a83fc854efd7.py"
+      ],
+      [
+        "utils/logging.py",
+        "_sources/logging_8309e899ab76a4e610428ba7ee8d8acb.py"
+      ]
+    ]
+  },
+  "heartbeat": "2023-04-13T07:01:57.884825",
+  "host": {
+    "ENV": {},
+    "cpu": "Apple M1 Pro",
+    "hostname": "Josephs-MacBook-Pro.local",
+    "os": [
+      "Darwin",
+      "macOS-13.2.1-arm64-arm-64bit"
+    ],
+    "python_version": "3.9.6"
+  },
+  "meta": {
+    "command": "my_main",
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [],
+      "help": false,
+      "with": false
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-04-13T06:58:14.078520",
+  "status": "COMPLETED",
+  "stop_time": "2023-04-13T07:01:57.860466"
+}
