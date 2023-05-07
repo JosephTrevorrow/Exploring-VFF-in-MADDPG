@@ -1,0 +1,583 @@
+{
+  "agent_grad_norm": [
+    0.014450544491410255,
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ5NTM3NTMwMjRxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWAoAAAA0OTUzNzUzMDI0cQFhLgEAAAAAAAAA+sFsPA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    0.014006426557898521,
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ5MTg1MjQwNjRxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWAoAAAA0OTE4NTI0MDY0cQFhLgEAAAAAAAAANntlPA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    0.016779735684394836,
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ5MTg1NzQ4MTZxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWAoAAAA0OTE4NTc0ODE2cQFhLgEAAAAAAAAAqHWJPA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    0.015735473483800888,
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ5NTM1NDYzNjhxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWAoAAAA0OTUzNTQ2MzY4cQFhLgEAAAAAAAAArueAPA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    0.021435553207993507,
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYCgAAADQ5MDY1MzUyMzJxAlgDAAAAY3B1cQNLAU50cQRRLoACXXEAWAoAAAA0OTA2NTM1MjMycQFhLgEAAAAAAAAAnZmvPA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_grad_norm_T": [
+    32,
+    32,
+    2032,
+    2032,
+    4032,
+    4032,
+    6032,
+    6032,
+    8032,
+    8032
+  ],
+  "critic_grad_norm": [
+    0.49145057797431946,
+    0.046766504645347595,
+    0.06367600709199905,
+    0.06095704808831215,
+    0.24174503982067108
+  ],
+  "critic_grad_norm_T": [
+    32,
+    2032,
+    4032,
+    6032,
+    8032
+  ],
+  "critic_loss": [
+    0.9824953079223633,
+    9.364452125737444e-06,
+    0.0003861338773276657,
+    0.00034267953014932573,
+    0.0006383882719092071
+  ],
+  "critic_loss_T": [
+    32,
+    2032,
+    4032,
+    6032,
+    8032
+  ],
+  "ep_length_mean": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "ep_length_mean_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "episode": [
+    2000,
+    4000,
+    6000,
+    8000,
+    10000
+  ],
+  "episode_T": [
+    2000,
+    4000,
+    6000,
+    8000,
+    10000
+  ],
+  "episode_limit_mean": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "episode_limit_mean_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "pg_loss": [
+    0.02367858961224556,
+    -0.29810193181037903,
+    -0.22008103132247925,
+    -0.1756719946861267,
+    -0.17102690041065216
+  ],
+  "pg_loss_T": [
+    32,
+    2032,
+    4032,
+    6032,
+    8032
+  ],
+  "q_taken_mean": [
+    -0.03569026663899422,
+    0.5196774005889893,
+    0.025895699858665466,
+    0.25365525484085083,
+    -0.0835365578532219
+  ],
+  "q_taken_mean_T": [
+    32,
+    2032,
+    4032,
+    6032,
+    8032
+  ],
+  "return_mean": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -12.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.594
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.99
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.98
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.99
+    }
+  ],
+  "return_mean_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "return_std": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 2.6538960039911133
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.4471017781221632
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.6321392251711644
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.44710177812216306
+    }
+  ],
+  "return_std_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "target_mean": [
+    -1.5497207641601562e-06,
+    0.5256787538528442,
+    0.02915739268064499,
+    0.2502717971801758,
+    -0.05626721680164337
+  ],
+  "target_mean_T": [
+    32,
+    2032,
+    4032,
+    6032,
+    8032
+  ],
+  "td_error_abs": [
+    59.75586700439453,
+    0.19204401969909668,
+    0.36169010400772095,
+    0.3086199164390564,
+    0.8726180195808411
+  ],
+  "td_error_abs_T": [
+    32,
+    2032,
+    4032,
+    6032,
+    8032
+  ],
+  "test_ep_length_mean": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "test_ep_length_mean_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "test_episode_limit_mean": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "test_episode_limit_mean_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "test_return_mean": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -6.2
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    }
+  ],
+  "test_return_mean_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ],
+  "test_return_std": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 6.63023378170031
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    }
+  ],
+  "test_return_std_T": [
+    1,
+    2001,
+    4001,
+    6001,
+    8001,
+    10001
+  ]
+}

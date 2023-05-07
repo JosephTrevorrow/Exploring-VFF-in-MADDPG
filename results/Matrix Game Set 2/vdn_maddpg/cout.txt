@@ -1,0 +1,105 @@
+[INFO 17:32:08] pymarl Running command 'my_main'
+[INFO 17:32:08] pymarl Started run with ID "2"
+[DEBUG 17:32:08] pymarl Starting Heartbeat
+[DEBUG 17:32:08] my_main Started
+[WARNING 17:32:08] my_main CUDA flag use_cuda was switched OFF automatically because no CUDA devices are available!
+[INFO 17:32:08] my_main Experiment Parameters:
+[INFO 17:32:08] my_main 
+
+{   'add_value_last_step': True,
+    'agent': 'rnn',
+    'agent_output_type': 'pi_logits',
+    'batch_size': 32,
+    'batch_size_run': 1,
+    'buffer_cpu_only': True,
+    'buffer_size': 50000,
+    'checkpoint_path': '',
+    'critic_type': 'maddpg_critic',
+    'env': 'matrix_game',
+    'env_args': {   'key': None,
+                    'seed': 44695088},
+    'evaluate': False,
+    'gamma': 0.99,
+    'grad_norm_clip': 10,
+    'hidden_dim': 128,
+    'hypergroup': None,
+    'label': 'default_label',
+    'learner': 'maddpg_vdn_style_learner',
+    'learner_log_interval': 2000,
+    'load_step': 0,
+    'local_results_path': 'results',
+    'log_interval': 2000,
+    'lr': 0.0005,
+    'mac': 'maddpg_mac',
+    'name': 'maddpg',
+    'obs_agent_id': True,
+    'obs_individual_obs': False,
+    'obs_last_action': False,
+    'optim_alpha': 0.99,
+    'optim_eps': 1e-05,
+    'reg': 0.001,
+    'repeat_id': 1,
+    'runner': 'episode',
+    'runner_log_interval': 2000,
+    'save_model': False,
+    'save_model_interval': 50000,
+    'save_replay': False,
+    'seed': 44695088,
+    'standardise_returns': False,
+    'standardise_rewards': True,
+    't_max': 10000,
+    'target_update_interval_or_tau': 200,
+    'test_greedy': True,
+    'test_interval': 2000,
+    'test_nepisode': 20,
+    'use_cuda': False,
+    'use_rnn': True,
+    'use_tensorboard': False}
+
+[INFO 17:32:08] my_main Beginning training for 10000 timesteps
+/Users/josephtrevorrow/Library/Mobile Documents/com~apple~CloudDocs/dissertation/epymarl/src/components/episode_buffer.py:103: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /Users/runner/work/pytorch/pytorch/pytorch/torch/csrc/utils/tensor_new.cpp:233.)
+  v = th.tensor(v, dtype=dtype, device=self.device)
+/Users/josephtrevorrow/Library/Mobile Documents/com~apple~CloudDocs/dissertation/epymarl/src/components/episode_buffer.py:103: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  v = th.tensor(v, dtype=dtype, device=self.device)
+[INFO 17:32:08] my_main t_env: 1 / 10000
+[INFO 17:32:08] my_main Estimated time left: 0 seconds. Time passed: 0 seconds
+[INFO 17:32:15] my_main Recent Stats | t_env:       2000 | Episode:     2000
+agent_grad_norm:           0.0041	critic_grad_norm:          0.4399	critic_loss:               0.9814	ep_length_mean:            1.0000
+episode_limit_mean:        0.0000	pg_loss:                  -0.0363	q_taken_mean:              0.0997	return_mean:             -12.0000
+return_std:                0.0000	target_mean:              -0.0000	td_error_abs:             59.2939	test_ep_length_mean:       1.0000
+test_episode_limit_mean:   0.0000	test_return_mean:         -4.2000	test_return_std:           7.5339	
+[INFO 17:32:15] my_main t_env: 2001 / 10000
+[INFO 17:32:15] my_main Estimated time left: 27 seconds. Time passed: 6 seconds
+[INFO 17:32:22] my_main Recent Stats | t_env:       4000 | Episode:     4000
+agent_grad_norm:           0.0274	critic_grad_norm:          0.2436	critic_loss:               0.4907	ep_length_mean:            1.0000
+episode_limit_mean:        0.0000	pg_loss:                  -0.1031	q_taken_mean:             -0.0349	return_mean:              -6.0670
+return_std:                0.7332	target_mean:              -0.0828	td_error_abs:             29.7437	test_ep_length_mean:       1.0000
+test_episode_limit_mean:   0.0000	test_return_mean:         -2.1000	test_return_std:           3.7670	
+[INFO 17:32:22] my_main t_env: 4001 / 10000
+[INFO 17:32:22] my_main Estimated time left: 20 seconds. Time passed: 13 seconds
+[INFO 17:32:29] my_main Recent Stats | t_env:       6000 | Episode:     6000
+agent_grad_norm:           0.0685	critic_grad_norm:          0.3158	critic_loss:               0.3273	ep_length_mean:            1.0000
+episode_limit_mean:        0.0000	pg_loss:                  -0.1068	q_taken_mean:              0.0820	return_mean:              -4.0507
+return_std:                0.6436	target_mean:               0.0364	td_error_abs:             20.2774	test_ep_length_mean:       1.0000
+test_episode_limit_mean:   0.0000	test_return_mean:         -1.4000	test_return_std:           2.5113	
+[INFO 17:32:29] my_main t_env: 6001 / 10000
+[INFO 17:32:29] my_main Estimated time left: 14 seconds. Time passed: 20 seconds
+[INFO 17:32:36] my_main Recent Stats | t_env:       8000 | Episode:     8000
+agent_grad_norm:           0.0757	critic_grad_norm:          0.2638	critic_loss:               0.2456	ep_length_mean:            1.0000
+episode_limit_mean:        0.0000	pg_loss:                  -0.1100	q_taken_mean:             -0.0757	return_mean:              -3.0410
+return_std:                0.5775	target_mean:              -0.1098	td_error_abs:             15.3884	test_ep_length_mean:       1.0000
+test_episode_limit_mean:   0.0000	test_return_mean:         -1.0500	test_return_std:           1.8835	
+[INFO 17:32:36] my_main t_env: 8001 / 10000
+[INFO 17:32:36] my_main Estimated time left: 7 seconds. Time passed: 28 seconds
+[INFO 17:32:44] my_main Recent Stats | t_env:      10000 | Episode:    10000
+agent_grad_norm:           0.0902	critic_grad_norm:          0.2506	critic_loss:               0.1965	ep_length_mean:            1.0000
+episode_limit_mean:        0.0000	pg_loss:                  -0.1047	q_taken_mean:             -0.0147	return_mean:              -2.4364
+return_std:                0.5549	target_mean:              -0.0454	td_error_abs:             12.4217	test_ep_length_mean:       1.0000
+test_episode_limit_mean:   0.0000	test_return_mean:         -0.8400	test_return_std:           1.5068	
+[INFO 17:32:44] my_main t_env: 10001 / 10000
+[INFO 17:32:44] my_main Estimated time left: -. Time passed: 35 seconds
+Closing Env
+[INFO 17:32:44] my_main Finished Training
+Exiting Main
+Stopping all threads
+Thread Thread-1 is alive! Is daemon: False
