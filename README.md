@@ -8,5 +8,4 @@ The plotting tool "originalPlot.py" has been included. This is a minor modified 
 
 This research has been self-evaluated on its ethical considerations, following the standards set by Data Hazards (https://datahazards.com/index.html). There is details of this in the project dissertation.
 
-
-Any questions about this library should be directed to Joseph (sgjtrevo@liverpool.ac.uk), we can only pray that TurnItIn isnt going to flag this as me plagerising myself! (Hence why this library is private)
+Any questions about this library should be directed to Joseph (up-to-date contact details found on josephtrevorrow.github.io).
